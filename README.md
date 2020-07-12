@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am currently working on inproving my skills on as a DevOps Engineer 😄.
+- You wont see alot of commits as i use [Gitlab](https://gitlab.com/aanorbel) as my primary source control in addition to enterprise hosted gitlab for the company i currently work for. 
+- In am also currently working on a couple of [Flutter](https://flutter.dev) side projects.
+   - [Happy Me Health](https://play.google.com/store/apps/details?id=dev.obstinacy.happyme.health)
+   - [Pharma Index](#)
+
 <!--
 **aanorbel/aanorbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
