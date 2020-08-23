@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Norbel Ambanumben (Mobile Developer/ DevOps Enthusiast.)
+#### I am Norbel Ambanumben (Mobile Developer/ DevOps Engineer.)
 
 - I am currently working on inproving my skills on as a DevOps Engineer 😄.
 - You wont see alot of commits as i use [Gitlab](https://gitlab.com/aanorbel) as my primary source control in addition to enterprise hosted gitlab for the company i currently work for. 
