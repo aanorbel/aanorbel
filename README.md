@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-#### I am Norbel Ambanumben (Mobile Developer/ DevOps Engineer.)
+#### I am Norbel Ambanumben (Fullstack Developer / DevOps Engineer.)
 
-- I am currently working on inproving my skills on as a DevOps Engineer 😄.
-- You wont see alot of commits as i use [Gitlab](https://gitlab.com/aanorbel) as my primary source control in addition to enterprise hosted gitlab for the company i currently work for. 
-- In am also currently working on a couple of [Flutter](https://flutter.dev) side projects.
+- 🌱 I’m currently working on inproving my skills on as a [Fullstack Developer](https://app.pluralsight.com/profile/aanorbel) / [DevOps Engineer](https://www.coursera.org/user/b1c1e8928b9c92df356a5b257ebf679e).
+- 🔭 I’m currently using [Gitlab](https://gitlab.com/aanorbel)  as my primary source control so wont see alot of commits here. 
+- 💻 I'm also currently working on a couple of [Flutter](https://flutter.dev) side projects.
    - [Happy Me Health](https://play.google.com/store/apps/details?id=dev.obstinacy.happyme.health)
    - [Pharma Index](#)
+   ### Past Projects
 
+    - Gifted Mom [Nursing Fund](https://play.google.com/store/apps/details?id=org.giftedmom.nursingfund)
 <!--
 **aanorbel/aanorbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
